@@ -18,6 +18,6 @@ point2.add({
         position : Cesium.Cartesian3.fromDegrees(-65.59777, 40.03883),
         point : {
             pixelSize : 10,
-            color : Cesium.Color.YELLOW
+            color : Cesium.Color.BLUE
     }
 });
