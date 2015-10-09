@@ -2,11 +2,6 @@ var viewer = new Cesium.Viewer('cesiumContainer');
 
 
 
-
-//kmlì«Ç›çûÇ›
-//viewer.dataSources.add(Cesium.KmlDataSource.load('http://hirogiant01tcr.github.io/tokyo-demo/cesium-starter-app-master/Source/test.kml'));
-
-
 //kmlì«Ç›çûÇ›2
 viewer.dataSources.add(Cesium.KmlDataSource.load('http://hirogiant01tcr.github.io/tokyo-demo/cesium-starter-app-master/Source/1009.kml'));
 
